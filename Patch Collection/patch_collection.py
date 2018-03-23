@@ -15,7 +15,6 @@ import matplotlib.pyplot as plt
 # Fixing random state for reproducibility
 np.random.seed(19680801)
 
-
 fig, ax = plt.subplots()
 
 resolution = 50  # the number of vertices
